@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641394500888",
+    "project_id": "holek-836c1",
+    "storage_bucket": "holek-836c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641394500888:android:0f71c287bcad0fd7adaa6d",
+        "android_client_info": {
+          "package_name": "com.example.holek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH1W7au5077Q0mQRm_VGWW3S2kHkZwH7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
